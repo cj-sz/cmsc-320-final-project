@@ -1,0 +1,6 @@
+site_name: CMSC320 Final Project
+
+docs_dir: .
+
+theme:
+  name: material
